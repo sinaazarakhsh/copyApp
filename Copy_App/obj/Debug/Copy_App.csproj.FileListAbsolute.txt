@@ -1,0 +1,11 @@
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\bin\Debug\Copy_App.exe.config
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\bin\Debug\Copy_App.exe
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\bin\Debug\Copy_App.pdb
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\obj\Debug\Copy_App.csproj.AssemblyReference.cache
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\obj\Debug\Copy_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\obj\Debug\Copy_App.Form1.resources
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\obj\Debug\Copy_App.Properties.Resources.resources
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\obj\Debug\Copy_App.csproj.GenerateResource.cache
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\obj\Debug\Copy_App.csproj.CoreCompileInputs.cache
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\obj\Debug\Copy_App.exe
+C:\Users\sinaa\OneDrive\Desktop\Copy_App\Copy_App\Copy_App\obj\Debug\Copy_App.pdb
